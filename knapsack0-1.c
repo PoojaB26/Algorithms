@@ -4,7 +4,7 @@ void knapSack(int W, int n, int val[], int wt[]);
 int getMax(int x, int y);
 
 int main(void) {
-
+//abcdefg
 	//the first element is set to -1 as
 	//we are storing item from index 1
 	//in val[] and wt[] array
