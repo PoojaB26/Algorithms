@@ -38,6 +38,7 @@ int main(){
 
 	int s[]= {2, 5, 0, 7, 1};
 	int f[]= {3, 4, 6, 8, 9};
+	int x,y=0;
 	int n = sizeof(s)/sizeof(s[0]);
 	printMaxActivities(s, f, n);
 return 0;
